@@ -1,6 +1,6 @@
 ### Hello world! I'm Alexandr. Python-developer. 👋
 
-Now my stack is Python, Django, Django Rest Framework, FastAPI, SQL, SQLite, PostgreSQL, Redis, Celery, Gunicorn, Nginx, Linux, Git, Docker, Unittest.
+Now my stack is Python, Django, Django Rest Framework, FastAPI, Aiogram, SQL, SQLite, PostgreSQL, Redis, Celery, Gunicorn, Nginx, Linux, Git, Docker, Unittest.
 
 <!--
 **FrolovAlex22/FrolovAlex22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
