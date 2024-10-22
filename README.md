@@ -1,6 +1,4 @@
-### Hello world! I'm Alexandr. Python-developer. 👋
-
-Now my stack is Python, Django, Django Rest Framework, FastAPI, Aiogram, SQL, SQLite, PostgreSQL, Redis, Celery, Gunicorn, Nginx, Linux, Git, Docker, Unittest, Pytest.
+# Hi! My name is Alexandr and I'm a backend developer. 👋
 
 ## Languages and Tools:
 
@@ -21,8 +19,8 @@ Now my stack is Python, Django, Django Rest Framework, FastAPI, Aiogram, SQL, SQ
 
 ## My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinSKS&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinSKS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrolovAlex22SKS&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrolovAlex22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
