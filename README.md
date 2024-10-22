@@ -1,3 +1,5 @@
+<img src="https://github.com/FrolovAlex22/FrolovAlex22/blob/main/api.gif" width="480" height="260">
+
 # Hi! My name is Alexandr and I'm a backend developer. 👋
 
 ## Languages and Tools:
