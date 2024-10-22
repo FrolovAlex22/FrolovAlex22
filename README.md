@@ -17,11 +17,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## My Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrolovAlex22&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrolovAlex22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **FrolovAlex22/FrolovAlex22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
